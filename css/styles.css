@@ -278,6 +278,27 @@ letter-spacing: 0.03em;
 color: var(--color-title);
 margin-bottom: 50px;
 }
+
+.main-work-wrap {
+    position: relative;
+}
+
+.main-work-text {
+    position: absolute;
+    bottom: 4px;
+    width: 100%;
+    
+    font-size: 14px;
+    line-height: 1.1428;
+    align-content: center;
+    justify-content: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--color-white);
+    background-color: rgba(47, 48, 58, 0.8);
+    padding: 27px;
+}
+
 .main-fourth {
 padding-top: 94px;
 padding-bottom: 94px;
