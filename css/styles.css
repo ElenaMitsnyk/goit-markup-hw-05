@@ -539,8 +539,8 @@ gap: 30px;
 position: relative;
 }
 
-.card:hover .portfolio-text,
-.card:focus .portfolio-text {
+.projects:hover .portfolio-text,
+.projects:focus .portfolio-text {
 transform: translateY(0);
 }
 
